@@ -1,0 +1,20 @@
+{
+  "Name": "CAPTURE (AIP 2.0)",
+  "Description": "ЗАХВАТЫВАЙТЕ ЗОНЫ ИЛИ ЗАЩИЩАЙТЕ ИХ,И ТА КОМАНДА ПОБЕДИТ!.",
+  "StartClientVersion": 334,
+  "MapLists": [
+    {
+      "MapListId": 324,
+      "Name": "Официальные карты"
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "MapRotation",
+        "DisplayName": "GmParams/MapRotation",
+        "Default": true
+      }
+    ]
+  }
+}
